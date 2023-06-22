@@ -1,0 +1,1 @@
+# mstest-readonly-struct-repro
